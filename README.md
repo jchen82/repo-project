@@ -14,5 +14,4 @@ Tools used:
 
 All data comes from Baseball Reference.
 
-Created by: John chen 
-Project: Personal Data Analysis Portfolio
+Created by: John Chen 
